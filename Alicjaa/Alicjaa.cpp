@@ -6,11 +6,10 @@
 int main()
 {
     std::cout << "Hello World!\n";
-<<<<<<< HEAD
+
     std::cout << "Hello World!\n";
     std::cout << "Hello World!\n";
-=======
->>>>>>> 9817e5809999ccec0af7b978466528fbcb30f94e
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
