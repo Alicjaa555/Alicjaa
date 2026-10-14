@@ -2,13 +2,22 @@
 //
 
 #include <iostream>
+#include <string>
+using namespace std;
 
 int main()
-{
-    std::cout << "Hello World!\n";
 
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
+{
+	cout << " XXXXXXXXXX         XXXXXXXXXX" <<endl;
+	cout << "X          X        X         X"<<endl;
+	cout << "X          X        X          X"<<endl;
+	cout << "X          X        X         X" << endl;
+	cout << "XXXXXXXXXXXX        XXXXXXXXXX" << endl;
+	cout << "X          X        X         X"<<endl;
+	cout << "X          X        X          X"<<endl;
+	cout << "X          X        X         X"<<endl;
+	cout << "X          X        XXXXXXXXXX"<<endl;
+   
 
 }
 
